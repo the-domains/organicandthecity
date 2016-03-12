@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'ORGÂNICOS SEMPRE! Por quê?'
-datePublished: '2016-03-12T01:18:36.673Z'
-dateModified: '2016-03-12T01:18:20.842Z'
+datePublished: '2016-03-12T01:31:04.532Z'
+dateModified: '2016-03-12T01:18:44.743Z'
 title: Teste
 author: []
 sourcePath: _posts/2016-03-12-time-editorial.md
