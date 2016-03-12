@@ -1,26 +1,26 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Time editorial
-datePublished: '2016-03-12T01:11:22.824Z'
-dateModified: '2016-03-12T01:10:35.192Z'
-title: ''
+description: 'ORGÂNICOS SEMPRE! Por quê?'
+datePublished: '2016-03-12T01:18:36.673Z'
+dateModified: '2016-03-12T01:18:20.842Z'
+title: Teste
 author: []
+sourcePath: _posts/2016-03-12-time-editorial.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-time-editorial.md
-published: true
 url: time-editorial/index.html
-_type: Article
+_type: WebPage
 
 ---
-Time editorial
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1246b4-0ef2-43cd-8447-78ee1fbfbf19.jpg)
+ORGÂNICOS SEMPRE! Por quê?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf873e8b-52c2-42cd-a88c-4767bc1525cc.jpg)
