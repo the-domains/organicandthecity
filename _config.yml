@@ -1,6 +1,6 @@
 name: organicandthecity
 favicon: null
-layout_spectrum: 0.6143301872070879
+layout_spectrum: 0.32886
 typography_spectrum: 0.2901743957772851
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7742452297825366
+  brandStrength: 0.8125
   lightness: 0.4639818971045315
-  saturation: 0.6641998528502882
+  saturation: 0.875
   rhythmicContrast: 0.6505711427889764
 purpose: []
