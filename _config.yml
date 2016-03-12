@@ -1,4 +1,4 @@
-name: organicandthecity
+name: Organic And The City
 favicon: null
 layout_spectrum: 0.50334
 typography_spectrum: 0.84109
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#16110e'
-    - '#f2dee0'
-    - '#ccb7a2'
-    - '#3f3128'
-    - '#776758'
+    - '#ffffff'
+    - '#191a15'
+    - '#d7d7d7'
+    - '#566f97'
+    - '#a28f6f'
   brandStrength: 0
   lightness: 1
   saturation: 0.5
