@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Organic Choice in your City]]></title>
-        <description><![CDATA[The Organic Choice in your City]]></description>
+        <title><![CDATA[Organic And The City]]></title>
+        <description><![CDATA[Organic And The City]]></description>
         <link>https://thegrid.ai/organicandthecity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 01:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2016 01:35:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/organicandthecity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eab421a0-2592-4d1b-8759-f6ee4865708d.png">]]></description>
+            <link>https://thegrid.ai/organicandthecity/d4171327-3278-4e8a-b280-97b7a471a219/index.html</link>
+            <guid isPermaLink="false">d4171327-3278-4e8a-b280-97b7a471a219</guid>
+            <pubDate>Sat, 12 Mar 2016 01:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5c3be38-0629-48d3-ad00-33373cb3a7bb.jpg">]]></description>
